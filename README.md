@@ -15,7 +15,7 @@ Agile flight presents significant control challenges, especially for morphing dr
 
 A 3 page summary is available here [Masters_Thesis_CARLETTI__Summary.pdf](Masters_Thesis_CARLETTI__Summary.pdf)
 
-<a href="Masters_Thesis_CARLETTI__Summary" target="_blank">
+<a href="Masters_Thesis_CARLETTI__Summary.pdf" target="_blank">
   <img src="https://github.com/user-attachments/assets/f413e4de-2c32-4357-b743-8e3cd7af936e" alt="thesis-thumbnail" width="900" />
 </a>
 
