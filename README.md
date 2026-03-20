@@ -33,3 +33,8 @@ Simulation and experimental results are obtained on morphing drone prototypes de
 <br>
 
 **Keywords**: *Adaptive Control, Reinforcement Learning, L1 AC, Sim-to-Real, Morphing Drone*
+
+
+# Skills
+
+`C++` `Python` `Reinforcement Learning (PPO)` `Control Systems` `Adaptive Control` `ROS` `Simulink` `Unity` `Linux`
