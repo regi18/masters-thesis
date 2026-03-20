@@ -5,23 +5,22 @@ Master’s thesis conducted at **EPFL** – Laboratory of Intelligent Systems (*
 - Title: **L1-Adaptive augmentation for robust morphing-wing drone flight control**
 - Supervisors: Wanner Julius, Jeger Simon, Averta Giuseppe, Floreano Dario
 
-## 📌 Overview
-
-Agile flight presents significant control challenges, especially for morphing drones subject to complex and uncertain aerodynamic effects. While Reinforcement Learning (RL) enables highly agile behaviors, direct low-level control through RL policies often lacks robustness when faced with model mismatches and disturbances. This project investigates how to stabilize and enhance RL-based controllers using adaptive control techniques.
-
+<!-- ## 📌 Overview
+Agile flight presents significant control challenges, especially for morphing drones subject to complex and uncertain aerodynamic effects. While Reinforcement Learning (RL) enables highly agile behaviors, direct low-level control through RL policies often lacks robustness when faced with model mismatches and disturbances. This project investigates how to stabilize and enhance RL-based controllers using adaptive control techniques. -->
 
 
 
-# 📝 Summary
+
+# Summary
 
 A 3 page summary is available here [Masters_Thesis_CARLETTI__Summary.pdf](Masters_Thesis_CARLETTI__Summary.pdf)
 
-<img width="4961" height="7016" alt="output" src="https://github.com/user-attachments/assets/f413e4de-2c32-4357-b743-8e3cd7af936e" />
+<a href="Masters_Thesis_CARLETTI__Summary" target="_blank">
+  <img src="https://github.com/user-attachments/assets/f413e4de-2c32-4357-b743-8e3cd7af936e" alt="thesis-thumbnail" width="900" />
+</a>
 
 
-
-
-# 📄 Full Abstract
+# Abstract
 
 Agile flight in cluttered environments presents unique control challenges, particularly for morphing drones subject to complex aerodynamic interactions. While Reinforcement Learning (RL) has emerged as a powerful tool for generating agile control policies, direct actuator control via RL often suffers from a lack of robustness due to model discrepancies, wind disturbances, and ground effects.
 
